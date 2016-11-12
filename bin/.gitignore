@@ -1,5 +1,6 @@
 /.DS_Store
 /Adventure.class
+/AreYouHappy.class
 /FizzBuzz.class
 /HighLowGame.class
 /LoopGauntlet.class
@@ -8,8 +9,10 @@
 /SecretMessage.class
 /Something.class
 /SpudCounter.class
+/TheRiddler.class
 /Turtle.class
 /VotingBooth.class
 /car.class
-/AreYouHappy.class
-/TheRiddler.class
+/BirthdayReminder.class
+/RandomNumber.class
+/TortoiseColorChooser.class
